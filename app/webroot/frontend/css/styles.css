@@ -1,0 +1,246 @@
+body{
+    background: url("../images/home.jpg") repeat-x;
+}
+.container{
+    max-width: 990px;
+    margin-top: 20px;
+}
+.top{
+    background: #ffffff;
+}
+.logo{
+    margin-left: 20px;
+}
+.logo img{
+    width: 75px;
+}
+.slogan{
+    text-align: right;
+}
+.slogan h1{
+    font-size: 20pt;
+    color: #035cae;
+}
+.slogan h4{
+    margin-top: -10px;
+    color: #9cacba;
+    font-size: 12pt;
+}
+.right-header{
+    text-align: right;
+    padding-right: 60px;
+    margin-top: -18;
+}
+.language{
+    text-align: right;
+}
+.bx-viewport{
+    margin-top: 10px;
+}
+.bx-wrapper .bx-viewport{
+    left: 0;
+}
+.bxslider img{
+    margin-left: 5px;
+}
+.shadow{
+    height: 13px;
+    background: url('../images/header/shadow.jpg') no-repeat bottom;
+}
+/*menu*/
+.menu{
+    margin-top: 30px;
+}
+.nav li a{
+    padding: 15px 11px;
+}
+.navbar{
+    margin-bottom: 0;
+    border-radius: 10 10 0 0;
+    background: #3297f5
+}
+.navbar-default .navbar-brand{
+    color: #ffffff;
+}
+.navbar-default{
+    border: none;
+}
+.navbar-brand{
+    border-right: 1px solid #228ef2;
+}
+.navbar-default .navbar-nav>li>a{
+    color: #ffffff;
+    border-left: 1px solid #53aafb;
+}
+.navbar-default .navbar-nav>li{
+    border-right: 1px solid #228ef2;
+}
+
+.menu-bottom{
+    background: #d6e9fa;
+    padding-top: 15px;
+}
+.menu-bottom label{
+    float: left;
+    padding-top: 5px;
+    padding-right: 15px;
+}
+.cart{
+    margin-left: 10px;
+}
+
+.link .link{
+    width: 75%;
+}
+.search .btn{
+    background: #d52e2e;
+}
+.search .form-control{
+    width: 215px;
+}
+/*middle*/
+
+.middle{
+    margin-top: 25px;
+}
+.category{
+    background: url("../images/middle/middle-right/background.png") no-repeat bottom right;
+}
+.middle h2{
+    border-bottom: 3px solid #238ef2;
+    color: #03549e;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-size: 18px;
+}
+.category ul{
+    padding-left: 0;
+    padding-bottom: 30px;
+}
+.category ul li{
+    list-style: none;
+    border-bottom: 1px solid #e4e4e6;
+    height: 45px;
+    padding-top: 15px;
+    margin-right: 20px;
+}
+
+.category ul li:last-child{
+    border: none;
+}
+.category ul li a{
+    text-decoration: none;
+    font-size: 15;
+    color: #575859;
+    margin-left: 10px;
+}
+.category ul li a:hover{
+    margin-left: 35px;
+    color: #03549e;
+}
+
+.support{
+    background: url("../images/middle/middle-right/background.png") no-repeat bottom right;
+    padding-bottom: 40px;
+    padding-right: 7px;
+}
+.yahoo{
+    border-bottom: 1px solid #e4e4e6;
+}
+.phone{
+    padding-top: 10px;
+}
+.phone span{
+    font-size: 13px;
+    margin-left: 10;
+}
+.phone label{
+    font-size: 26;
+    color: #2790f3;
+    margin-left: 5;
+}
+.question{
+    background: url("../images/middle/middle-right/background.png") no-repeat bottom right;
+    padding-bottom: 30px;
+}
+.question ul{
+    padding-left: 0;
+}
+.question ul li{
+    list-style: none;
+    padding-top: 7px;
+}
+
+/*Product*/
+.product{
+    float: left;
+    width: 712px;
+}
+.product .item{
+    background: #747576;
+    float: left;
+    margin-top: 15px;
+    margin-right: 15px;
+    width: 222px;
+}
+.product .item img{
+    width: 222px;
+}
+.description{
+    padding: 10px 10px;
+    color: #ffffff;
+}
+.description p{
+    text-align: center;
+}
+.description a{
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/*News*/
+
+.news{
+    float: left;
+    width: 712px;
+}
+
+.health{
+    float: left;
+    width: 460px;
+    padding-right: 25px;
+}
+.production{
+    float: left;
+    width: 220px;
+    margin-top: 30px;
+}
+.content-health{
+    border-bottom: 1px solid #dadada;
+}
+.new-health{
+    margin-top: 20px;
+}
+
+/*menu-bottom*/
+
+.address{
+    background: #d6e9fa;
+    padding: 10 20 10 20;
+}
+
+.menu-mini-bottom .nav li a{
+    padding: 15px 12px;
+    border: none;
+}
+.menu-mini-bottom .nav li{
+    border: none;
+}
+.menu-mini-bottom a{
+    font-size: 15px;
+}
+.menu-mini-bottom .navbar{
+    border-radius:0 0 10 10;
+}
